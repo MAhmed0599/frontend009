@@ -279,7 +279,7 @@ const FeedPage = () => {
         variant="contained"
         sx={{
           position: "absolute",
-          bottom: 30,
+          bottom: 80,
           right: 30,
           backgroundColor: "#64b5f6",
           color: "#fff",
